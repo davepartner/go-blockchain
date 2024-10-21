@@ -1,0 +1,6 @@
+tmp/badger/**
+
+# .env
+.env
+
+#
